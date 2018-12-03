@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1,Brodilo TV
 http://brodilo.tv/channel.php
+#EXTINF:-1,|IT| RAI 1 FHD
+http://pure-iptv.com:8000/live/jawad/jawad/8334.ts
+#EXTINF:-1,|IT| RAI 1 HD
+http://pure-iptv.com:8000/live/jawad/jawad/8333.ts
+#EXTINF:-1,|IT| RAI 1
+http://pure-iptv.com:8000/live/jawad/jawad/13487.ts
+#EXTINF:-1,|IT| RAI 2 FHD
+http://pure-iptv.com:8000/live/jawad/jawad/8332.ts
+#EXTINF:-1,|IT| RAI 2 HD
+http://pure-iptv.com:8000/live/jawad/jawad/8331.ts
+#EXTINF:-1,|IT| RAI 2
+http://pure-iptv.com:8000/live/jawad/jawad/13488.ts
+#EXTINF:-1,|IT| RAI 3 FHD
+http://pure-iptv.com:8000/live/jawad/jawad/8330.ts
+#EXTINF:-1,|IT| RAI 3 HD
+http://pure-iptv.com:8000/live/jawad/jawad/8329.ts
+#EXTINF:-1,|IT| RAI 3
+http://pure-iptv.com:8000/live/jawad/jawad/13489.ts
